@@ -7,7 +7,7 @@ According to the instructions shown at the [KNULLI Wiki Bootlogo Page](https://k
 · Eject the primary SD card from your KNULLI device and insert it into your computer.  
 · Find the batocera partition on your SD card (and, if you are using Windows, ignore any warnings about broken/unformatted drives!)  
 · Locate bootlogo.bmp on your batocera partition and replace it with your new boot logo.  
-· Eject the SD card from your computer and put it back into your KNULLI device.
+· Eject the SD card from your computer and put it back into your KNULLI device.  
 · Turn on your KNULLI device and enjoy your custom boot logo.
 
 ## Here are the overlays available!
